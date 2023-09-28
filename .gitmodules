@@ -1,0 +1,3 @@
+[submodule "mybuilding"]
+	path = mybuilding
+	url = git@github.com:PRIME3015/mybuilding.git
